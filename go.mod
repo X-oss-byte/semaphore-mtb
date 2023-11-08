@@ -33,7 +33,7 @@ require (
 )
 
 require (
-	github.com/consensys/gnark-crypto v0.9.1
+	github.com/consensys/gnark-crypto v0.12.1
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fxamacker/cbor/v2 v2.4.0 // indirect
 	github.com/mmcloughlin/addchain v0.4.0 // indirect
